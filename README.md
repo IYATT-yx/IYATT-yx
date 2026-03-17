@@ -23,9 +23,8 @@ Sometimes I build small tools based on real needs from my work.
 有时会根据工作中的实际需求开发一些小工具来提高效率。
 
 ![stats](https://github-readme-stats.vercel.app/api?username=IYATT-yx)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IYATT-yx)
 
 ![streak](https://streak-stats.demolab.com/?user=IYATT-yx)
-
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IYATT-yx)
 
 ![activity](https://github-readme-activity-graph.vercel.app/graph?username=IYATT-yx)
