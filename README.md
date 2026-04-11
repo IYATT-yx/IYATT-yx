@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 -->
 ## GitHub Stats
 
-![stats](https://github-stats-alpha.vercel.app/api?username=IYATT-yx)
-![languages](https://github-readme-stats-one.vercel.app/api/top-langs/?username=IYATT-yx)
-
-![streak](https://streak-stats.demolab.com/?user=IYATT-yx)
-
-![activity](https://github-readme-activity-graph.vercel.app/graph?username=IYATT-yx)
+![stats](https://github-stats-alpha.vercel.app/api?username=IYATT-yx)  
+![streak](https://streak-stats.demolab.com/?user=IYATT-yx)  
+![languages](https://github-readme-stats-one.vercel.app/api/top-langs/?username=IYATT-yx)  
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=IYATT-yx)  
