@@ -22,7 +22,28 @@ Here are some ideas to get you started:
 -->
 ## GitHub Stats
 
-![stats](https://github-stats-alpha.vercel.app/api?username=IYATT-yx)  
-![streak](https://streak-stats.demolab.com/?user=IYATT-yx)  
-![languages](https://github-readme-stats-one.vercel.app/api/top-langs/?username=IYATT-yx)  
-![activity](https://github-readme-activity-graph.vercel.app/graph?username=IYATT-yx)  
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+        <img width="330" src="https://github-readme-stats-tqfx.vercel.app/api/top-langs/?username=IYATT-yx&hide_title=true&layout=compact&langs_count=10" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+        <img width="530" src="https://github-readme-stats-tqfx.vercel.app/api?username=IYATT-yx&hide_title=true&show_icons=true&include_all_commits=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=IYATT-yx" width="44%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IYATT-yx" width="49%" />
+</p>
+
+### ☕ Support
+
+| 赞助通道 <br> Support Channels | 微信支付 <br> WeChat Pay | 支付宝 <br> Alipay | 爱发电 <br> Afdian |
+| :--- | :---: | :---: | :---: |
+| [**点击查看赞助名单** <br> *Click to view Sponsor List*](https://blog.iyatt.com/?p=22448) | <fieldset style="border: 1px solid #ccc; padding: 10px; display: inline-block; background: #fff;"><img src="https://blog.iyatt.com/wp-content/uploads/2024/04/wechatpay.png" width="160px" style="pointer-events: none; display: block;"></fieldset> | <fieldset style="border: 1px solid #ccc; padding: 10px; display: inline-block; background: #fff;"><img src="https://blog.iyatt.com/wp-content/uploads/2024/04/alipay.png" width="160px" style="pointer-events: none; display: block;"></fieldset> | <a href="https://afdian.com/a/IYATT-yx" target="_blank" rel="noopener noreferrer"><img src="https://blog.iyatt.com/wp-content/uploads/2024/04/image-1778897077890.png" height="28px" alt="Afdian"></a> |
